@@ -1,0 +1,10 @@
+LWC version 2.2.7.
+Server Version 1.16.5, Purpur Build #1117.
+
+When chests, doors, etc are not registered, players outside of a town, aka Outsiders, are able to claim stuff inside the towns.
+For example, an outsider can /cprivate my chest inside my town even though they are not added to my town. This is an issue because
+players inside the town are unable to interact or break the locked items.
+
+Will LWC incorporate more towny integration? Is this a bug?
+
+- Mark Baca III
